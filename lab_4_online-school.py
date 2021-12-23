@@ -1,7 +1,7 @@
 import random
 
 class Webium:
-    def speach(self):
+    def speech(self):
         print('Я из Вебиума!')
 
 class teachers(Webium):
@@ -135,4 +135,4 @@ print (people_from_sales.purchase())
 print ('//----//')
 
 for person in webium:
-    person.speach()
+    person.speech()
